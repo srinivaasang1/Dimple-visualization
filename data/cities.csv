@@ -1,0 +1,9 @@
+city,state,population,land area,status,time
+seattle,WA,652405,83.9,deve,1
+new york,NY,8405837,302.6,deve,2
+boston,MA,645966,48.3,dev,3
+kansas city,MO,467007,315.0,deve,4
+seattle,WA,852405,83.9,under,1
+new york,NY,9405837,302.6,under,2
+boston,MA,845966,48.3,under,3
+kansas city,MO,667007,315.0,under,4
